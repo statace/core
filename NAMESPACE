@@ -1,0 +1,2 @@
+export("sa.desc", "lm", "sa.corr")
+import("stats", "ggplot2", "psych")

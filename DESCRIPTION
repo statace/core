@@ -1,0 +1,11 @@
+Package: statace.core
+Type: Package
+Title: StatAce
+Version: 1.0
+Date: 2014-03-03
+Author: StatAce
+Maintainer: StatAce <dev@statace.com>
+Description: StatAce core functionality
+License: GPL (>= 2)
+Imports: stats, ggplot2, psych
+Depends: statace.base

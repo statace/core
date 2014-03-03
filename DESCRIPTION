@@ -8,4 +8,4 @@ Maintainer: StatAce <dev@statace.com>
 Description: StatAce core functionality
 License: GPL (>= 2)
 Imports: stats, ggplot2, psych
-Depends: statace.base
+Depends: statace.util

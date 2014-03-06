@@ -254,6 +254,7 @@ sa.freq.pie <- function(var, title) {
 	labels <- paste(names, pct)
 	labels <- paste(labels, "%", sep = "")
 	
+	par(mfrow = c(1, 1))
 	pie(slices, labels = labels, col = rainbow(length(labels)), main=title)
 }
 
